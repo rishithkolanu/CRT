@@ -9,7 +9,7 @@
 # cou = 0
 # while n > 0:
 #     t = n % 10
-#     cou +=1
+#     cou +=1,
 #     n = n // 10
 # print(cou)
 
@@ -25,3 +25,4 @@
 
 
 s = input()
+
